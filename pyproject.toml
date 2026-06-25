@@ -1,0 +1,11 @@
+[project]
+name = "tools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "scrapy>=2.16.0",
+    "tqdm>=4.68.3",
+    "w3lib>=2.4.1",
+]
